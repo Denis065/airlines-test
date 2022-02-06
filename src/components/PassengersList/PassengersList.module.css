@@ -1,0 +1,11 @@
+.border {
+  display: grid;
+  grid-template-columns: minmax(155px, 155px) minmax(155px, 155px);
+  grid-template-rows: minmax(255px, 255px) minmax(255px, 255px);
+  row-gap: 18px;
+  column-gap: 16px;
+  justify-content: space-evenly;
+  margin-top: 82px;
+}
+
+

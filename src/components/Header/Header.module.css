@@ -1,0 +1,16 @@
+.header{
+  width: 100%;
+  height: 50px;
+  background: #fff;
+  padding: 15px 0;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+.title {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-weight: bold;
+  font-size: 28px;
+ 
+}
